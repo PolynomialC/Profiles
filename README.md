@@ -1,4 +1,5 @@
 # Profiles
+Install them to $HOME directory.
 My .files
 aliases: command line shortcuts ~/.alias
 bin: quick scripts to run tasks ~/bin
